@@ -1,0 +1,60 @@
+.jumbotron {
+    padding: 2rem 1rem;
+    margin-bottom: 2rem;
+    background-color: #e9ecef;
+    border-radius: .3rem;
+}
+
+.line{
+    height: 5px !important;
+   /* background-color: red !important;*/
+    border: 0;
+
+}
+
+.productRegisterHeader {
+    margin-top: 25px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+#saveProductForm {
+    margin-top: 50px;
+    margin-left: 5px;
+
+}
+
+.error {
+    color: red;
+    font-size: 18px;
+    font-weight: 600;
+}
+
+.showProductHeader {
+    margin-top: 15px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.tittle {
+    text-align: center;
+    letter-spacing: 5px;
+    font-size: 30px;
+    font-weight: 600;
+}
+
+.tbl_data {
+    border: 2px solid black;
+    padding: 5px;
+    text-align: center;
+}
+
+table.table td{
+    border: 0 none !important;
+}
+
+#showProductBody {
+    margin-top: 40px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
